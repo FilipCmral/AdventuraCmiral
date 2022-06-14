@@ -1,0 +1,104 @@
+mluv farmar
+prohledej
+jdi brana
+prozkoumej
+jdi trh
+mluv urednik
+jdi centrum
+prozkoumej
+mluv ferra
+mluv cestovatel
+mluv zavisly
+mluv veteran
+seber penezenka
+jdi bar
+prozkoumej
+mluv bossk
+mluv opilec
+mluv barman
+dej barman kredity
+inventar
+dej opilec sklenka_prow
+mluv opilec
+jdi zadni_mistnost
+prozkoumej
+jdi centrum
+prozkoumej
+jdi dlouha_ulice
+seber kredity_na_zemi
+jdi centrum
+jdi trh
+prozkoumej
+mluv pilot
+mluv blazen
+dej blazen kredity
+dej pilot kolo
+dej dealer kredity
+mluv obchodnik
+jdi centrum
+prozkoumej
+dej zavisly deathsticky
+jdi trh
+jdi chram
+prozkoumej
+mluv obi-wanuv_duch
+jdi sklep
+prozkoumej
+seber batoh
+seber kyber_krystal
+jdi chram
+jdi trh
+mluv obchodnik
+dej obchodnik kyber_krystal
+jdi ferruv_dum
+pouzij klic_ferra
+jdi ferruv_dum
+seber penezenka
+jdi puda
+seber detonatory
+seber klic_bar
+jdi ferruv_dum
+jdi trh
+jdi centrum
+jdi bar
+mluv bossk
+dej bossk detonatory
+inventar
+jdi centrum
+jdi dlouha_ulice
+prozkoumej
+pouzij svetelny_mec
+jdi imperialni_ctvrt
+prozkoumej
+jdi tunel
+prozkoumej
+jdi hangar
+prozkoumej
+jdi zbrojirna
+pouzij svetelny_mec
+prozkoumej
+jdi zbrojirna
+prozkoumej
+seber detonatory
+jdi tunel
+jdi imperialni_ctvrt
+jdi pruchod
+prozkoumej
+jdi kontrolni_mistnost
+prozkoumej
+pouzij svetelny_mec
+pouzij detonatory
+jdi kontrolni_mistnost
+prozkoumej
+mluv imperial
+seber pristupova_karta
+jdi pruchod
+prozkoumej
+jdi imperialni_ctvrt
+jdi tunel
+jdi hangar
+prozkoumej
+pouzij pristupova_karta
+jdi hangar
+prozkoumej
+jdi nakladni_lod

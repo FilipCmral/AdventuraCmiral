@@ -1,0 +1,369 @@
+			  ---STAR WARS---
+Luke Skywalker byl sestřelen, když ho nečekaně
+napadly imperiální TIE Fightery. Se svým X-Wingem
+se zřítil vedle města Kothar na planetě Lothal.
+Všechno, co Luke u sebe měl - je pryč. V této těžké
+chvíli mu zbývá jen Síla, a odhodlání přežít.
+Luka za žádnou cenu nesmí chytit imperiálové.
+Pomoz mu najít způsob jak se dostat k nové stíhačce
+a uniknout z rukou impéria.
+Napište 'napoveda' - pokud nebudete vědět, jak dál.
+Příkazem 'prozkoumej' zjistíš co se na daném místě nachází
+Pole vedle města Kothal, nejlepší bude se vydat k bráně do města...
+
+> mluv farmar
+Farmář: Hochu já ti s ničím nepomůžu, zkus se zeptat ve městě.
+> prohledej
+Luke: Nevím co tím myslíš? Tento příkaz neznám
+> jdi brana
+Brána do Kotharu, u vztupu je nějaký úředník.
+Asi bude potřeba si s ním promluvit než tě pustí...
+
+> prozkoumej
+Brána do Kotharu, u vztupu je nějaký úředník.
+Asi bude potřeba si s ním promluvit než tě pustí...
+východy: centrum(nepřístupné) trh(nepřístupné)
+věci:žádné
+osoby: urednik
+> jdi trh
+Úředník: Kam si myslíš, že jdeš, prvně pojď sem a já si tě zapíšu.
+> mluv urednik
+Úředník: Jak se jmenuješ? 
+Luke? 
+A dál? 
+Skywalker. 
+Dobrá tedy, můžeš jít.
+> jdi centrum
+Centrum je křižovatkou celého města, dá se odsud dostat kamkoliv.
+Také je tu spousta lidí, skus se s nimi pobavit, třeba ti někdo z nich poradí.
+
+> prozkoumej
+Centrum je křižovatkou celého města, dá se odsud dostat kamkoliv.
+Také je tu spousta lidí, skus se s nimi pobavit, třeba ti někdo z nich poradí.
+východy: bar dlouha_ulice trh
+věci: penezenka
+osoby: cestovatel veteran zavisly ferra
+> mluv ferra
+Ferra: Jdi o de mě pryč nebo si skočím domů a odpálím tě detonátorem.
+> mluv cestovatel
+Cestovatel: Tady je to hrozné, všude divní lidé, je tu jen nějaký opuštěný chrám
+a pak ten hloupý bar, kde mají jen praw, vůbec jsem sem neměl jezdit.
+> mluv zavisly
+Závislý: Potřebuju deathstickyyy...
+Dám ti za ně tenhle klíč, rychle sežeň mi je.
+> mluv veteran
+Veterán: Viděl jsi to nové brnění pro Stormtroopery, vypadá to, že ho prorazí jen světelný meč.
+> seber penezenka
+Luke: Dalších 1000 kreditů navíc.
+> jdi bar
+Kotharský bar, člověk zde najde řadu zvláštních existencí, ale třeba i nějakou pomoc.
+
+> prozkoumej
+Kotharský bar, člověk zde najde řadu zvláštních existencí, ale třeba i nějakou pomoc.
+východy: zadni_mistnost(nepřístupné) centrum
+věci:žádné
+osoby: barman bossk opilec
+> mluv bossk
+Bossk: Luke Skywalker...tebe bych tady nečekal.
+Normálně bych tě udal, ale teď udělám výjimku.
+Náhodou jsem našel tvůj světelný meč, když mi seženeš nějaké detonátory,tak ti ho vrátím.
+> mluv opilec
+Opilec: Tyjo co bych teďka dal za sklenku prow!!
+> mluv barman
+Barman: Mohu nabídnout prow za 200 kreditů.
+> dej barman kredity
+Barman: Tak tady to je.
+> inventar
+
+Luke: U sebe mám sklenka_prow.
+Luke: Jo a mám u sebe 800 kreditů.
+> dej opilec sklenka_prow
+Opilec: Moc děkuju, na stole máš mé kredity.
+> mluv opilec
+Opilec: Mám pro tebe radu, jestli se chceš někam dostat, musíš být Stormtrooper, v imperiální čtvti tě zaškolí.
+> jdi zadni_mistnost
+Aby ses dostal do zadní místnosti, potřebuješ klíč.
+> prozkoumej
+Kotharský bar, člověk zde najde řadu zvláštních existencí, ale třeba i nějakou pomoc.
+východy: zadni_mistnost(nepřístupné) centrum
+věci: kredity_opilec
+osoby: barman bossk opilec
+> jdi centrum
+Centrum je křižovatkou celého města, dá se odsud dostat kamkoliv.
+Také je tu spousta lidí, skus se s nimi pobavit, třeba ti někdo z nich poradí.
+
+> prozkoumej
+Centrum je křižovatkou celého města, dá se odsud dostat kamkoliv.
+Také je tu spousta lidí, skus se s nimi pobavit, třeba ti někdo z nich poradí.
+východy: bar dlouha_ulice trh
+věci:žádné
+osoby: cestovatel veteran zavisly ferra
+> jdi dlouha_ulice
+Dlouhá ulice vede směrem k imperiální čtvrti, dále bych raději bez zbraně nechodil...
+
+> seber kredity_na_zemi
+Luke: Dalších 750 kreditů navíc.
+> jdi centrum
+Centrum je křižovatkou celého města, dá se odsud dostat kamkoliv.
+Také je tu spousta lidí, skus se s nimi pobavit, třeba ti někdo z nich poradí.
+
+> jdi trh
+Na trhu člověk najde spoustu zajímavých věcí, když se budeš koukat pořádně, narazíš i na ilegální část trhu...
+
+> prozkoumej
+Na trhu člověk najde spoustu zajímavých věcí, když se budeš koukat pořádně, narazíš i na ilegální část trhu...
+východy: centrum ferruv_dum(nepřístupné) chram
+věci:žádné
+osoby: pilot blazen dealer obchodnik trendosian
+> mluv pilot
+Pilot: Promiň, já už nelétám, loď mi vzali imperiálové, teď rezne v imperiálním hangáru.
+> mluv blazen
+Blazen: Hahhah...Oni staví další hvězdu smrti, a ješteee většíiíií...
+> dej blazen kredity
+Blazen: Jdi pryčččs, jsii s nimy, zráaadce...hahahahaaa
+> dej pilot kolo
+Luke: Toto u sebe nemám.
+> dej dealer kredity
+Dealer: Přeji skvělou zábavu...
+> mluv obchodnik
+Obchodník: Kupuji krystaly, jsem ochotný dát až 3000 imperiálních kreditů.
+> jdi centrum
+Centrum je křižovatkou celého města, dá se odsud dostat kamkoliv.
+Také je tu spousta lidí, skus se s nimi pobavit, třeba ti někdo z nich poradí.
+
+> prozkoumej
+Centrum je křižovatkou celého města, dá se odsud dostat kamkoliv.
+Také je tu spousta lidí, skus se s nimi pobavit, třeba ti někdo z nich poradí.
+východy: bar dlouha_ulice trh
+věci:žádné
+osoby: cestovatel veteran zavisly ferra
+> dej zavisly deathsticky
+Závislý: Joo, tohlee jsem potřebovaal, tady je klííččs.
+> jdi trh
+Na trhu člověk najde spoustu zajímavých věcí, když se budeš koukat pořádně, narazíš i na ilegální část trhu...
+
+> jdi chram
+Bývalý Jedijský chrám, od té doby, co planetu převzalo imperium tu nikdo dlouho nebyl...
+
+> prozkoumej
+Bývalý Jedijský chrám, od té doby, co planetu převzalo imperium tu nikdo dlouho nebyl...
+východy: sklep trh
+věci:žádné
+osoby: obi-wanuv_duch
+> mluv obi-wanuv_duch
+Obi-Wan: Luku, najdi svůj světelný meč a dostaň se do imperiální čtvrti.
+Tam najdeš způsob, jak z této planety uniknout.
+> jdi sklep
+V tomto sklepě už dlouho nikdo nebyl, třeba zde bude něco zajímavého...
+
+> prozkoumej
+V tomto sklepě už dlouho nikdo nebyl, třeba zde bude něco zajímavého...
+východy: chram
+věci: batoh kyber_krystal
+osoby:žádné
+> seber batoh
+Luke: Super, větší batoh, teď mám více místa.
+> seber kyber_krystal
+Luke: Toto se mi bude hodit.
+> jdi chram
+Bývalý Jedijský chrám, od té doby, co planetu převzalo imperium tu nikdo dlouho nebyl...
+
+> jdi trh
+Na trhu člověk najde spoustu zajímavých věcí, když se budeš koukat pořádně, narazíš i na ilegální část trhu...
+
+> mluv obchodnik
+Obchodník: Kupuji krystaly, jsem ochotný dát až 3000 imperiálních kreditů.
+> dej obchodnik kyber_krystal
+Obchodnik: Ooo...výtečně, nádherný krystal, na stole máte svou výplatu.
+> jdi ferruv_dum
+Luke: Dům je zamčený, bez nějakého klíče se tam nedostanu.
+> pouzij klic_ferra
+[Luke tajně odevřel dveře od Ferrova domu]
+Luke: Schválně, co si ten zločinec doma schovává.
+> jdi ferruv_dum
+Dům obávaného Ferry, dávej pozor, aby Ferra nezjistil, že jsi tu byl...
+
+> seber penezenka
+Luke: Dalších 1000 kreditů navíc.
+> jdi puda
+Půda Ferrova domu, schválně ,co si tu Ferra schovává...
+
+> seber detonatory
+Luke: Další bonus do mé zbírky.
+> seber klic_bar
+Luke: Toto se mi bude hodit.
+> jdi ferruv_dum
+Dům obávaného Ferry, dávej pozor, aby Ferra nezjistil, že jsi tu byl...
+
+> jdi trh
+Na trhu člověk najde spoustu zajímavých věcí, když se budeš koukat pořádně, narazíš i na ilegální část trhu...
+
+> jdi centrum
+Centrum je křižovatkou celého města, dá se odsud dostat kamkoliv.
+Také je tu spousta lidí, skus se s nimi pobavit, třeba ti někdo z nich poradí.
+
+> jdi bar
+Kotharský bar, člověk zde najde řadu zvláštních existencí, ale třeba i nějakou pomoc.
+
+> mluv bossk
+Bossk: Luke Skywalker...tebe bych tady nečekal.
+Normálně bych tě udal, ale teď udělám výjimku.
+Náhodou jsem našel tvůj světelný meč, když mi seženeš nějaké detonátory,tak ti ho vrátím.
+> dej bossk detonatory
+Bossk: Výborně, tady máš ten svůj mečík.
+> inventar
+
+Luke: U sebe mám klic_bar svetelny_mec.
+Luke: Jo a mám u sebe 2550 kreditů.
+> jdi centrum
+Centrum je křižovatkou celého města, dá se odsud dostat kamkoliv.
+Také je tu spousta lidí, skus se s nimi pobavit, třeba ti někdo z nich poradí.
+
+> jdi dlouha_ulice
+Dlouhá ulice vede směrem k imperiální čtvrti, dále bych raději bez zbraně nechodil...
+
+> prozkoumej
+Dlouhá ulice vede směrem k imperiální čtvrti, dále bych raději bez zbraně nechodil...
+východy: centrum imperialni_ctvrt(nepřístupné)
+věci:žádné
+osoby: stormtrooperi
+> pouzij svetelny_mec
+[Luke použil svůj světelný meč a porazil stromtroopery, teď může pokračovat]
+Luke: Pracovat pro Impérium se nevyplácí!
+> jdi imperialni_ctvrt
+V imperiální čtvrti se to hemží Stormtroopery, modli se, aby tě nepoznali...
+
+> prozkoumej
+V imperiální čtvrti se to hemží Stormtroopery, modli se, aby tě nepoznali...
+východy: pruchod tunel tajna_mistnost(nepřístupné)
+věci:žádné
+osoby:žádné
+> jdi tunel
+Tunel vede směrem k hangáru a zbrojírně, dávej pozor, ať na tebe něco nevyskočí.
+
+> prozkoumej
+Tunel vede směrem k hangáru a zbrojírně, dávej pozor, ať na tebe něco nevyskočí.
+východy: hangar(nepřístupné) imperialni_ctvrt zbrojirna(nepřístupné)
+věci:žádné
+osoby: stormtrooperi
+> jdi hangar
+Luke: Teďka se do hangáru nedostanu, vypadá to, že potřebuji nějakou přístupovou kartu.
+> prozkoumej
+Tunel vede směrem k hangáru a zbrojírně, dávej pozor, ať na tebe něco nevyskočí.
+východy: hangar(nepřístupné) imperialni_ctvrt zbrojirna(nepřístupné)
+věci:žádné
+osoby: stormtrooperi
+> jdi zbrojirna
+Stormtroopeři: Jestli se chceš dostat do zbrojírny budeš muset přez nás.
+> pouzij svetelny_mec
+[Luke použil svůj světelný meč a porazil stromtroopery, teď může pokračovat]
+Luke: Pracovat pro Impérium se nevyplácí!
+> prozkoumej
+Tunel vede směrem k hangáru a zbrojírně, dávej pozor, ať na tebe něco nevyskočí.
+východy: hangar(nepřístupné) imperialni_ctvrt zbrojirna
+věci:žádné
+osoby:žádné
+> jdi zbrojirna
+Imperiální zbrojírna, nachází se tu různé druhy zbraní a výbušnin.
+
+> prozkoumej
+Imperiální zbrojírna, nachází se tu různé druhy zbraní a výbušnin.
+východy: tunel
+věci: detonatory kredity_na_zemi
+osoby:žádné
+> seber detonatory
+Luke: Naštěstí tu pořád mám nějaké místo.
+> jdi tunel
+Tunel vede směrem k hangáru a zbrojírně, dávej pozor, ať na tebe něco nevyskočí.
+
+> jdi imperialni_ctvrt
+V imperiální čtvrti se to hemží Stormtroopery, modli se, aby tě nepoznali...
+
+> jdi pruchod
+Průchod do kontrolní místnosti, dávej pozor, na Deathtroopery.
+Budeš se s nimi muset vypořádat, než tě pustí dál.
+Doporučuji detonátory z imperiální zbrojírny.
+
+> prozkoumej
+Průchod do kontrolní místnosti, dávej pozor, na Deathtroopery.
+Budeš se s nimi muset vypořádat, než tě pustí dál.
+Doporučuji detonátory z imperiální zbrojírny.
+východy: imperialni_ctvrt kontrolni_mistnost(nepřístupné)
+věci:žádné
+osoby: deathtrooperi
+> jdi kontrolni_mistnost
+Deathtroopeři: Nás bys musel snad odbouchnout, kdyby ses tam chtěl dostat.
+> prozkoumej
+Průchod do kontrolní místnosti, dávej pozor, na Deathtroopery.
+Budeš se s nimi muset vypořádat, než tě pustí dál.
+Doporučuji detonátory z imperiální zbrojírny.
+východy: imperialni_ctvrt kontrolni_mistnost(nepřístupné)
+věci:žádné
+osoby: deathtrooperi
+> pouzij svetelny_mec
+[Luke nemůže projít brněním těch deathtrooperů]
+Deathtroopeři: Na nás tohle neplatí, zahoď ten meč a klekni na zem.
+> pouzij detonatory
+[Luke hodil po deathtrooperech detonátor a zbyl z nich pouze prach]
+Luke: Páni, ty detonátory jsou nějaké silné
+> jdi kontrolni_mistnost
+Kontolní místnost imperiálů, někde tu najít kartu od hangáru a můžeš pryč.
+
+> prozkoumej
+Kontolní místnost imperiálů, někde tu najít kartu od hangáru a můžeš pryč.
+východy: pruchod
+věci: pristupova_karta par_kreditu
+osoby: imperial
+> mluv imperial
+Imperiál: Ne, prosím nech mne na pokoji vem si tu přístupovou kartu a jdi pryč.
+> seber pristupova_karta
+Luke: Naštěstí tu pořád mám nějaké místo.
+> jdi pruchod
+Průchod do kontrolní místnosti, dávej pozor, na Deathtroopery.
+Budeš se s nimi muset vypořádat, než tě pustí dál.
+Doporučuji detonátory z imperiální zbrojírny.
+
+> prozkoumej
+Průchod do kontrolní místnosti, dávej pozor, na Deathtroopery.
+Budeš se s nimi muset vypořádat, než tě pustí dál.
+Doporučuji detonátory z imperiální zbrojírny.
+východy: imperialni_ctvrt kontrolni_mistnost
+věci:žádné
+osoby:žádné
+> jdi imperialni_ctvrt
+V imperiální čtvrti se to hemží Stormtroopery, modli se, aby tě nepoznali...
+
+> jdi tunel
+Tunel vede směrem k hangáru a zbrojírně, dávej pozor, ať na tebe něco nevyskočí.
+
+> jdi hangar
+Luke: Teďka se do hangáru nedostanu, vypadá to, že potřebuji nějakou přístupovou kartu.
+> prozkoumej
+Tunel vede směrem k hangáru a zbrojírně, dávej pozor, ať na tebe něco nevyskočí.
+východy: hangar(nepřístupné) imperialni_ctvrt zbrojirna
+věci:žádné
+osoby:žádné
+> pouzij pristupova_karta
+[Luke otevřel hangár]
+Luke: Konečně se mohu dostat domů...
+> jdi hangar
+Imperiální hangár, třeba tu najdeš něco, čím můžeš odletět pryč.
+
+> prozkoumej
+Imperiální hangár, třeba tu najdeš něco, čím můžeš odletět pryč.
+východy: nakladni_lod tunel
+věci:žádné
+osoby:žádné
+> jdi nakladni_lod
+			  ---STAR WARS---
+Luke Skywalker sebral imperiální loď a uletěl z planety Lothal
+Díky, že jsi mu pomohl/a. Ať tě provází Síla.
+
+> konec
+
+
+	Hra byla ukončena příkazem konec.
+			  ---STAR WARS---
+Luke Skywalker sebral imperiální loď a uletěl z planety Lothal
+Díky, že jsi mu pomohl/a. Ať tě provází Síla.
+
